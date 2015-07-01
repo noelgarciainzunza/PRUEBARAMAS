@@ -15,7 +15,7 @@ Grupos por Materia
 		<td><a href=""><h2 align="center">Grupo{{$grupo->id}}</h2></a></td>
 	</tr>
 	<tr>
-		<td><b>Maestro:</td>
+		<td><b>TEACHER:</td>
 	</tr>
 	<tr>
 		<td><b>Aula:</b></td>
